@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e a{a..z}"/n"
+echo -e a{a..z}"\n"
