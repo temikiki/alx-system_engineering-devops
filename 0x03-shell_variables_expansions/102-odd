@@ -1,0 +1,2 @@
+#!/bin/bash
+paste -d" " - - | ut -d " " -f 1
