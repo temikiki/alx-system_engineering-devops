@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# using the while loop to echo best school ten times
+
+number=0
+
+while [ $number -lt 10 ] ;
+do
+	echo "Best School"
+	(( number++ ))
+done
