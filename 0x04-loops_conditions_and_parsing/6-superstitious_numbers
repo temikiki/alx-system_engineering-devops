@@ -2,7 +2,7 @@
 # display outputs using case keyword
 
 number=0
-while [ $number -lt 20 ]
+while [ $number -lt 21 ]
 do
 	echo "$number"
 	case $number in
